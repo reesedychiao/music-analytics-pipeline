@@ -1,1 +1,1 @@
-# music-analytics-pipeline
+# Music Analytics Pipeline
